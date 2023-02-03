@@ -10,7 +10,7 @@
 <html>
 
 <head>
-    <title>Show all users</title>
+    <title>Show users</title>
     <style>
         table {
             border-collapse: collapse;
